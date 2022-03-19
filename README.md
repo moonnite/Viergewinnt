@@ -8,4 +8,4 @@ Play Viergewinnt, a popular two player minigame.
 - To start the game, run main method of "Game" class
 
 ## Class structure
-![alt text](https://github.com/moonnite/viergewinnt/blob/master/umlclass.png?raw=true)
+![alt text](umlclass.PNG)
